@@ -1,0 +1,4 @@
+﻿  task4.cpp
+C:\Users\nahly\OneDrive\Рабочий стол\Алгоритмы и структуры данных\lab1\task4\task4.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nahly\OneDrive\Рабочий стол\Алгоритмы и структуры данных\lab1\task4\task4.cpp(38,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task4.vcxproj -> C:\Users\nahly\OneDrive\Рабочий стол\Алгоритмы и структуры данных\lab1\task4\Debug\task4.exe
